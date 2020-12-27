@@ -1,0 +1,1 @@
+Project from the The Odin Project that is about creating a bubble sort algorithm (without using #sort or #sort!). Link to the TOP page containing the project: https://www.theodinproject.com/courses/ruby-programming/lessons/bubble-sort
